@@ -7,7 +7,7 @@ Without wasting your time, here's a list of cool projects for beginners.
 
 - Title: React Components
 - Purpose: Create a Simple App separating the heading component
-- Access the Deployment: https://codesandbox.io/s/github/hr21don/ReactComponents ✔️
+- Access the Repo: [Sandbox](https://codesandbox.io/s/github/hr21don/ReactComponents) ✔️
 
 ## Project 2: 
 
@@ -15,7 +15,7 @@ Without wasting your time, here's a list of cool projects for beginners.
 
 - Title: React Properties
 - Purpose: Create a ContactList App using React Properties
-- Access the Deployment: https://bniff.csb.app/ ✔️
+- Access the Repo: [Sandbox](https://bniff.csb.app/) ✔️
 
 ## Project 3: 
 
@@ -23,7 +23,7 @@ Without wasting your time, here's a list of cool projects for beginners.
 
 - Title: ReactMapping_Components
 - Purpose: Create an Emojipedia App by Mapping_Data_To_Components
-- Access the Deployment: https://325df.csb.app/ ✔️
+- Access the Repo: [Sandbox](https://325df.csb.app/) ✔️
 
 ## Project 4:
 
@@ -31,7 +31,7 @@ Without wasting your time, here's a list of cool projects for beginners.
 
 - Title: ReactConditionalRendering 
 - Purpose: Create a simple app using Conditional Rendering to show different components without moving the variable 'isUserRegistered'.
-- Access the Repo: https://lsnqt.csb.app/ ✔️
+- Access the Repo: [Sandbox](https://lsnqt.csb.app/) ✔️
 
 ## Project 5: 
 
@@ -39,7 +39,7 @@ Without wasting your time, here's a list of cool projects for beginners.
 
 - Title: React_useState_Hook
 - Purpose: Create a Simple Timer App using React useState_Hook 
-- Access the repo: https://6pcsm.csb.app/ ✔️
+- Access the repo: [Sandbox](https://6pcsm.csb.app/) ✔️
 
 ## Project 6: 
 
@@ -47,7 +47,7 @@ Without wasting your time, here's a list of cool projects for beginners.
 
 - Title: Event_Handling_In_React
 - Purpose: Create a Simple App using React Event_Handling
-- Access the repo: https://5wfqd.csb.app/ ✔️
+- Access the repo: [Sandbox](https://5wfqd.csb.app/) ✔️
 
 ## Project 7:
 
@@ -55,7 +55,7 @@ Without wasting your time, here's a list of cool projects for beginners.
 
 - Title: Form_In_React
 - Purpose: Create a Simple app to detect user events using React Forms
-- Access the repo: https://go1dp.csb.app/ ✔️
+- Access the repo: [Sandbox](https://go1dp.csb.app/) ✔️
 
 ## Project 8:
 
@@ -63,7 +63,7 @@ Without wasting your time, here's a list of cool projects for beginners.
 
 - Title: Change_Complex_StateInReact
 - Purpose: Create a Simple Forms App using Complex State with React
-- Access the repo: https://ip01f.csb.app/ ✔️
+- Access the repo: [Sandbox](https://ip01f.csb.app/) ✔️
 
 ## Purpose 9:
 
@@ -71,7 +71,7 @@ Without wasting your time, here's a list of cool projects for beginners.
 
 - Title: React_ToDoListApp
 - Purpose: Create a TodoList App with React
-- Access the repo: https://github.com/hr21don/React_ToDoListApp✔️
+- Access the repo: [Sandbox](https://github.com/hr21don/React_ToDoListApp) ✔️
 
 ## Project 10:
 
@@ -79,11 +79,11 @@ Without wasting your time, here's a list of cool projects for beginners.
 
 - Title: React_NoteKeeperApp
 - Purpose: Create a NoteKeeper App with React
-- Access the repo: https://jn4tu.codesandbox.io/ ✔️
+- Access the repo: [Sandbox](https://jn4tu.codesandbox.io/) ✔️
 
 
 Access the Deployed version at
-https://react001notekeeperapp.herokuapp.com/ ✔️
+[HerokuDeployment](https://react001notekeeperapp.herokuapp.com/) ✔️
 
 All the best of your journey!
 
