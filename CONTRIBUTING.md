@@ -92,7 +92,7 @@ git push origin YourBranchName
 
 **12.** **Congratulations!** You've made your first contribution to [**React_Development_Journey_2022**](https://github.com/JavascriptDon/React_Development_Journey_2022/graphs/contributors)! 🙌🏼
 
-**_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the LinkFree project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
+**_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the React_Development_Journey_2022 project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
 
 ---
 
