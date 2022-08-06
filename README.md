@@ -11,11 +11,11 @@ Fork the React Info Site App hosted on GitHub, and then the job’s done.
 
 https://github.com/JavascriptDon/React_Development_Journey_2022/tree/ReactFacts_Tutorial
 
-## License: 📝
+##  License: 🛡️
 
 This project is under The MIT Zero Clause License (MIT). See the LICENSE for more information.
 
-## Contributions
+## Contributions 👨‍💻 
 
 Contributions are always welcome...
 
