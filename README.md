@@ -5,7 +5,7 @@
 Fork the React Info Site App hosted on GitHub, and then the job’s done.
 
 ## Deployed: 🤯
-[Codesandbox]()
+[Codesandbox](https://3r3tlo.csb.app/)
 
 ## Version Control + Documentation 🤐
 
