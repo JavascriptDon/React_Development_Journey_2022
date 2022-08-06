@@ -5,7 +5,7 @@
 Fork the React Info Site App hosted on GitHub, and then the job’s done.
 
 ## Deployed: 🤯
-https://prismatic-wisp-62ba05.netlify.app/
+[Codesandbox]()
 
 ## Version Control + Documentation 🤐
 
@@ -19,9 +19,9 @@ This project is under The MIT Zero Clause License (MIT). See the LICENSE for mor
 
 Contributions are always welcome...
 
-🔹 Fork the repository
-🔹 Improve current program by
-🔹 improving functionality
-🔹 adding a new feature
-🔹 bug fixes
-🔹 Push your work and Create a Pull Request
+- Fork the repository
+- Improve current program by
+- improving functionality
+- adding a new feature
+- bug fixes
+- Push your work and Create a Pull Request
