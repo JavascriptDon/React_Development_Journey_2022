@@ -1,5 +1,7 @@
 # Digital_Business_Card
 
+<img width="163" alt="Digital_Business_Card" src="https://user-images.githubusercontent.com/101202952/184321505-98006c1f-cfa3-4218-bc1c-8bd59e19b4dc.png">
+
 Fork the Digital Business Card hosted on CodeSandbox, and then the job’s done.
 
 ## Deployed: 🤯
